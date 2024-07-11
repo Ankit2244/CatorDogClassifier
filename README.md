@@ -1,7 +1,7 @@
 # CatorDogClassifier
 
 The dataset can be fetched using the api command -> kaggle datasets download -d salader/dogs-vs-cats 
-<hr />
+
 ![alt text](https://github.com/Ankit2244/CatorDogClassifier/blob/main/Screenshot.png?raw=true)
 
 The output is 0 and 1 for binary classification where 0 represents cats and 1 represents dogs
